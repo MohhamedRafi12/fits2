@@ -19,3 +19,7 @@ See the code for additional details.
 
 3) Look at Scipy_fit.ipynb for a brief example of doing a fiot with Scipy
 4) Your main project is to complete the last section of either User_fit.ipynb (recommended) or Scipy_fit.ipynb.  Here you will develop your own model to fit a data set that is provided.  Details for your analysis are given in the notebook.
+
+# BEST FIT
+
+I picked the smallest number of parameters with the smallest reduced chi2 and larger p-value. Because I think the best fits would mostly likely have the least amount of parameters but fit the best. A higher p-value suggest that our chi-squared value was small to begin with, while a lower p-value suggested that our chi-squared value is larger (given that). 
